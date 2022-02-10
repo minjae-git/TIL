@@ -12,6 +12,6 @@
 - reference를
 
 ## 분류
-### Seminar & Conference
-- [2022.02,09]
-- [2022.02,10]
+### GitHub Lecture
+- [2022.02.09](markdown-basic.md)
+- [2022.02.10]
